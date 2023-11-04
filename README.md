@@ -26,6 +26,6 @@ schema for the rooms and temperatures tables, and the routes handle the correspo
 - ElepantSQL
 
 ## Acknowledgements
-The process is following [this blog](https://blog.teclado.com/first-rest-api-flask-postgresql-python/)https://blog.teclado.com/first-rest-api-flask-postgresql-python/)
+The process is following [this blog] (https://blog.teclado.com/first-rest-api-flask-postgresql-python/)https://blog.teclado.com/first-rest-api-flask-postgresql-python/)
 
 
